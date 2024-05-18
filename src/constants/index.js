@@ -37,28 +37,28 @@ export const PROJECTS = [
     image: project1,
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      technologies: ["React", "nodejs", "Express", "MognoDB", "Bootstrap"],
   },
   {
     title: "Wallpaper Store App",
     image: project2,
     description:
       "An application to download new trending wallpapers for phone, tablets, laptops and desktop.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+    technologies: ["React", "nodejs", "Express", "MognoDB", "tailwind"],
   },
   {
     title: "Portfolio Website",
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    technologies: ["React", "Tailwind", "Bootstrap"],
   },
   {
     title: "Note Taking Application",
     image: project4,
     description:
       "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+    technologies: ["ReactJs", "CSS", "nodejs", "Express", "mongoDB"],
   },
 ];
 
